@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+- <i><b>I don't simply report issues</b></i> 🙅 <i><b>I drive quality from the outset.</b></i>
+I am passionate about quality, and I believe that my role starts well before development. Quality is the responsibility of the whole team, and it is my role to support everyone on the team to understand and live this.
