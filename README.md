@@ -1,5 +1,5 @@
 ### Hi there
-Here are some ideas to get you started:
+The World is so cool with algorithms
 - 🔭 I’m currently working on datascience 
 - 🌱 I’m currently learning Python, java, Spring, Swing and Django
 - 👯 I’m looking to collaborate on Datascience
