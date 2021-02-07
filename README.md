@@ -4,8 +4,7 @@ The World is so cool with algorithms
 - 🌱 I’m currently learning Python, java, Spring, Swing and Django
 - 👯 I’m looking to collaborate on Datascience
 - 💬 Ask me about Python
-- ⚡ My friendly hobbie: www.desportovirtual.com: ...
--->👋
+- ⚡ My friendly hobbie: www.desportovirtual.com -->👋
 
 <!--
 **AndreRibau1/AndreRibau1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
