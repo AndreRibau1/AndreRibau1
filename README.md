@@ -3,7 +3,7 @@ The World is so cool with algorithms
 - 🔭 I’m currently working on datascience 
 - 🌱 I’m currently learning Python, java, Spring, Swing and Django
 - 👯 I’m looking to collaborate on Datascience
-- 💬 Ask me about Python
+- 💬 Ask me about Python & Java
 - ⚡ My friendly hobbie: www.desportovirtual.com -->👋
 
 <!--
