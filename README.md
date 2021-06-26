@@ -1,9 +1,9 @@
 ### Hi there
 The World is so cool with algorithms
-- 🔭 I’m currently working on datascience 
-- 🌱 I’m currently learning Python, java, Spring, Swing and Django
-- 👯 I’m looking to collaborate on Datascience
-- 💬 Ask me about Python & Java
+- 🔭 I’m currently in a bootcamp in Academia de Código
+- 🌱 I’m currently learning java, Spring, Unix and Javascript
+- 👯 I’m looking to a new oportunity in IT
+- 💬 FOR NOW I DON'T HAVE PREFERENCE BETWEEN BACKEND AND FRONTEND
 - ⚡ My friendly hobbie: www.desportovirtual.com -->👋
 
 <!--
