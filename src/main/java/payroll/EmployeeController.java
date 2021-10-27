@@ -28,13 +28,13 @@ public class EmployeeController {
 
     // Single item
 
-    /*@GetMapping("/employees/{id}")
+    @GetMapping("/employees/{id}")
     payroll.Employee one(@PathVariable Long id) {
 
          payroll.Employee employee = repository.findById(id)
                 .orElseThrow(() -> new payroll.EmployeeNotFoundException(id));
         return employee;
-    }*/
+    }
 
     @PutMapping("/employees/{id}")
     Employee replaceEmployee(@RequestBody Employee newEmployee, @PathVariable Long id) {
