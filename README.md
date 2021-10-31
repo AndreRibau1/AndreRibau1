@@ -29,9 +29,8 @@
   
 ### Hi there
 The World is so cool with algorithms
-- 🔭 I’m currently in a bootcamp in Academia de Código
-- 🌱 I’m currently learning java, Spring, Unix and Javascript
-- 👯 I’m looking to a new oportunity in IT
+- 🔭 I’m made a bootcamp in Academia de Código
+- 🌱 I’m currently working with java, Springboot, Soap and Rest (to make webservices)
 - 💬 FOR NOW I DON'T HAVE PREFERENCE BETWEEN BACKEND AND FRONTEND
 - ⚡ My friendly hobbie: www.desportovirtual.com -->👋
 
