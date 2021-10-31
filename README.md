@@ -32,7 +32,7 @@ The World is so cool with algorithms
 - 🔭 I’m made a bootcamp in Academia de Código
 - 🌱 I’m currently working with java, Springboot, Soap and Rest (to make webservices)
 - 💬 FOR NOW I DON'T HAVE PREFERENCE BETWEEN BACKEND AND FRONTEND
-- ⚡ My friendly hobbie: www.desportovirtual.com -->👋
+- ⚡ My friendly hobbie: https://www.desportovirtual.com -->👋
 
 <!--
 **AndreRibau1/AndreRibau1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
