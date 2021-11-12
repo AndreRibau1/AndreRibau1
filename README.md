@@ -30,7 +30,7 @@
 ### Hi there
 The World is so cool with algorithms
 - 🔭 I’m made a bootcamp in Academia de Código
-- 🌱 I’m currently working with java, Springboot, Soap and Rest (to make webservices)
+- 🌱 I’m currently working with java, Springboot, Docker, Soap, Rest, Webservices
 - 💬 FOR NOW I DON'T HAVE PREFERENCE BETWEEN BACKEND AND FRONTEND
 - ⚡ My personal project: https://www.desportovirtual.com -->👋
 
